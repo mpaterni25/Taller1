@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="Apellido">Last Name</string>
+    <string name="Borrar">Delete</string>
+    <string name="Edad">Age</string>
+    <string name="Mostrar">Show</string>
+    <string name="Nombre">Name</string>
+    <string name="Registro_Persona">Register person</string>
+    <string name="Segudo_Nombre">Second Name</string>
+    <string name="Segundo_Apellido">Second Last Name</string>
+    <string name="Sexo">Gender</string>
+    <string name="error_1">Please Put Your Name</string>
+    <string name="error_2">Please Put Your Second Name</string>
+    <string name="error_3">Please Put Your Last Name</string>
+    <string name="error_4">Please Put Your Second Last Name</string>
+    <string name="error_5">Please Put Your Gender</string>
+    <string name="error_6">Pleae Put Your Age</string>
+    <string name="Saludo">Hi</string>
+    <string name="Es">Is</string>
+    <string name="Tu">Your</string>
+    <string name="Y">And</string>
+</resources>

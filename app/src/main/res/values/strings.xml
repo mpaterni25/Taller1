@@ -9,4 +9,14 @@
     <string name="Edad">Edad</string>
     <string name="Mostrar">Mostrar</string>
     <string name="Borrar">Borrar</string>
+    <string name="Saludo">Hola</string>
+    <string name="Tu">Tu</string>
+    <string name="Es">Es</string>
+    <string name="Y_">Y</string>
+    <string name="error_3">Por favor digite el Apellido</string>
+    <string name="error_1">Por favor digite el nombre</string>
+    <string name="error_6">Por favor digite el Edad</string>
+    <string name="error_5">Por favor digite el Sexo</string>
+    <string name="error_2">Por favor digite el Segundo Nombre</string>
+    <string name="error_4">Por favor digite el Segundo Apellido</string>
 </resources>
