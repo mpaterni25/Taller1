@@ -28,7 +28,10 @@ public class Mostrar extends AppCompatActivity {
         res = this.getResources();
 
         aux = res.getString(R.string.Saludo)+" "+nomb+" "+segNom+" "+apell+" "+segApell+ " "
-                +res.getString(R.string.Tu)+" "+res.getString(R.string.Edad)+res.getString(R.string.Es)+" "+ edad+" "+
-                res.getString(R.string.Y_)+res.getString(R.string.Tu)+ res.getString(R.string.Sexo) + res.getString(R.string.Es)+sexo;
+                +res.getString(R.string.Tu)+" "+res.getString(R.string.Edad)+" "+res.getString(R.string.Es)+" "+ edad+" "+
+                res.getString(R.string.Y_)+ " "+ res.getString(R.string.Tu)+" "+
+                res.getString(R.string.Sexo) +" "+ res.getString(R.string.Es)+ " "+sexo;
+
+        mostrar.setText(aux);
     }
 }

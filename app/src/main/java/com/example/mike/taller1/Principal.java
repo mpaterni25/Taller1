@@ -18,6 +18,7 @@ public class Principal extends AppCompatActivity {
     private Bundle b;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,6 +36,7 @@ public class Principal extends AppCompatActivity {
         b = new Bundle();
 
     }
+
 
     public void mostrar(View v){
         String nomb, apell, segNom ,segApelli, edad , sexo;
